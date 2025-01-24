@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm new to this. Currently am making my way through the freeCodeCamp courses and using this to save my work and also get acquainted with GitHub.
+Thanks for visiting!
 <!--
 **kaponol/kaponol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
